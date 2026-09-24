@@ -1,0 +1,6 @@
+fastapi0.110.0
+uvicorn0.28.0
+pandas2.2.1
+openpyxl3.1.2
+python-dotenv1.0.1
+pydantic2.6.4
